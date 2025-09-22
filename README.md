@@ -1,4 +1,5 @@
 Smart Device Factory – Design Patterns Assignment 
+
 Aadit Singla - 100906986
 Pratham Patel - 100920625
 Joao Pedro Minari Prates - 100903075
