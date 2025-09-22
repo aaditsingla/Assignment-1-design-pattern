@@ -1,0 +1,11 @@
+# Smart Device Usage Data
+# This file simulates an external database with power/battery consumption data
+# Format: DEVICE_BRAND_TYPE:VALUE
+
+# Brand A Devices
+BULB_A_POWER:9.5
+LOCK_A_BATTERY:4.2
+
+# Brand B Devices  
+BULB_B_POWER:11.8
+LOCK_B_BATTERY:6.7
