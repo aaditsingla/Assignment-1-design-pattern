@@ -58,11 +58,11 @@ The SmartDeviceTest class contains the following test methods:
 
 All tests were executed in IntelliJ IDEA using JUnit 5. Screen dumps of the successful test execution are included below to show that each test passed and to display the printed outputs of power usage and battery consumption values.
 
-![Test1](https://github.com/user-attachments/assets/d0b69c2b-ddde-4677-bd50-169a6819c3a5)
-![Test2](https://github.com/user-attachments/assets/374d3062-adb2-424e-aa92-d505d8344c35)
-![Test3](https://github.com/user-attachments/assets/eac9b55c-9069-45d7-b114-67e6917a331e)
-![Test4](https://github.com/user-attachments/assets/d44b8a09-4f76-400c-ba0d-c6589de366ef)
-![Test5](https://github.com/user-attachments/assets/c019dff5-d102-4768-9e6b-d7f6e6b73fba)
-![Test6](https://github.com/user-attachments/assets/b23f8b02-69cb-4829-a9d9-cb7a63e22243)
-![Test7](https://github.com/user-attachments/assets/f0629d8a-c491-4949-a86d-64935cd54ae4)
+![Test1](https://github.com/user-attachments/assets/8f538ff6-5e1d-49c3-b183-3556f289e424)
+![Test2](https://github.com/user-attachments/assets/3c3f9f50-3599-440a-9c73-c59f4c9e7a7d)
+![Test3](https://github.com/user-attachments/assets/479a723d-0ef3-471a-97b9-2bbe0d3e1f94)
+![Test4](https://github.com/user-attachments/assets/c5a2fb0e-305b-4025-b10c-f2e344c6eb60)
+![Test5](https://github.com/user-attachments/assets/18bc626c-80f5-4945-928b-c314ffeb4896)
+![Test6](https://github.com/user-attachments/assets/d1027236-cb0b-4677-a8db-f4eb6d73a796)
+![Test7](https://github.com/user-attachments/assets/8faa13ae-9278-4b8c-b70e-9e3f857a3f26)
 
